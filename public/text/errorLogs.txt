@@ -1,0 +1,16 @@
+Error	Not allowed by CORS	Time: 05/04/2023	01:01:44	Uuid: 20f73c04-f985-4ce0-9c8d-7866797ab1d3
+Error	Not allowed by CORS	Time: 05/04/2023	01:03:39	Uuid: a6318dec-d0f5-42e4-9060-6af0eb3972ed
+TypeError	Assignment to constant variable.	Time: 05/04/2023	17:42:38	Uuid: 36432378-e3f8-4db6-9cae-9007c37b357d
+TypeError	Assignment to constant variable.	Time: 05/04/2023	17:42:51	Uuid: 177b825b-5161-4ce0-9528-c193362d1ddc
+RangeError	Invalid status code: 2	Time: 06/04/2023	00:39:10	Uuid: 387bb562-9ad9-4b42-a0ca-13f00a39aa04
+RangeError	Invalid status code: 2	Time: 06/04/2023	00:40:02	Uuid: bd5af723-2c07-451f-a0e5-9fbb1b3a54ee
+RangeError	Invalid status code: 2	Time: 06/04/2023	00:42:18	Uuid: fb3a6784-5abf-49a4-a376-5aa182106712
+RangeError	Invalid status code: 2	Time: 06/04/2023	00:44:24	Uuid: 6128acb1-2e82-4d2e-886f-6adb222816df
+RangeError	Invalid status code: 2	Time: 06/04/2023	00:44:26	Uuid: da27e057-1e24-4fb2-9f6c-1266edfc80cd
+RangeError	Invalid status code: 2	Time: 06/04/2023	00:45:48	Uuid: 42c3d436-a626-4a72-8c01-925c98957762
+TypeError	Cannot read properties of undefined (reading 'id')	Time: 06/04/2023	00:48:11	Uuid: e115ecb8-505a-4a1d-9729-05f9f3522ae5
+TypeError	Cannot read properties of undefined (reading 'id')	Time: 06/04/2023	00:48:17	Uuid: 2153c13b-42e8-4a19-8ebc-9685ca58ad6b
+TypeError	Cannot read properties of undefined (reading 'id')	Time: 06/04/2023	00:50:35	Uuid: a70dd5ba-36d6-4240-a367-8fb7b2f8bdd8
+ReferenceError	path is not defined	Time: 06/04/2023	01:22:47	Uuid: 88dc0c8f-8e45-4053-8b64-cbc352ee162e
+SyntaxError	Unexpected token A in JSON at position 9	Time: 11/04/2023	01:15:29	Uuid: bc83800f-fc54-437c-b36a-258f272170ec
+SyntaxError	Unexpected token , in JSON at position 8	Time: 11/04/2023	03:03:41	Uuid: cb6a4f0f-bc77-4b8e-8f4d-9df636c23ddb

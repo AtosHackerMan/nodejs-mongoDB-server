@@ -1,0 +1,30 @@
+[
+  {
+    "id": 2,
+    "username": "Frodo",
+    "roles": {
+      "user": 2001
+    },
+    "password": "$2b$10$ocV68itsHECrjDwLye7C4.nthEObJXh11AVkP0q0YLN9jtQImi.fq"
+  },
+  {
+    "id": 3,
+    "username": "ChepeWick",
+    "roles": {
+      "user": 2001
+    },
+    "password": "$2b$10$PP1UZ6ttVsD8U49ZWGO1.O/573OX0sj9slg09hpqF3AJueCs9YQ0S",
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkNoZXBlV2ljayIsImlhdCI6MTY4MTE4NTIyNywiZXhwIjoxNjgxMjcxNjI3fQ.1rG-jRtwYXjKJgiSPMBuj0lbTYht2k1pwSbWm48hBRI"
+  },
+  {
+    "id": 1,
+    "username": "Atos",
+    "roles": {
+      "admin": 5050,
+      "editor": 1984,
+      "user": 2001
+    },
+    "password": "$2b$10$wNDAB4G2reemq13I3VeGieB.WNbP.9sf4bkU1Dovejb3go/C1OLVW",
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkF0b3MiLCJpYXQiOjE2ODExODU1ODEsImV4cCI6MTY4MTI3MTk4MX0.PT6_CrbhC8yEGXgAEDlSzbHE9_LRxAIA7CIqiQjlE5E"
+  }
+]

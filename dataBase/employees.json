@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "firstName": "Eiros",
+    "lastName": "Vitaminas"
+  },
+  {
+    "id": 2,
+    "firstName": "Atos",
+    "lastName": "Falcon"
+  },
+  {
+    "id": 3,
+    "firstName": "Mr",
+    "lastName": "Suplementos"
+  },
+  {
+    "id": 4,
+    "firstName": "Frodo",
+    "lastName": "Godofredo"
+  },
+  {
+    "id": 5,
+    "firstName": "Popis",
+    "lastName": "Lopis"
+  },
+  {
+    "id": 6,
+    "firstName": "Kakis",
+    "lastName": "lakis"
+  }
+]
